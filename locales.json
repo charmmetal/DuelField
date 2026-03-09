@@ -1,0 +1,149 @@
+{
+  "en": {
+    "charset": "utf-8",
+    "headers": {
+      "mime-version": "1.0",
+      "content-type": "text/plain; charset=UTF-8",
+      "content-transfer-encoding": "8bit",
+      "x-generator": "POEditor.com",
+      "project-id-version": "player",
+      "language": "en"
+    },
+    "translations": {
+      "": {
+        "": {
+          "msgid": "",
+          "msgstr": [
+            "MIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nX-Generator: POEditor.com\nProject-Id-Version: player\nLanguage: en\n"
+          ]
+        },
+        "购买": {
+          "msgid": "购买",
+          "comments": {
+            "reference": "plugins/behavior/xftrade/runtime.js:224\nplugins/behavior/xftrade/runtime.js:229\nplugins/behavior/xftrade/runtime.js:234"
+          },
+          "msgstr": [
+            "buy"
+          ]
+        },
+        "抱歉，您当前的游戏版本过旧\n请更新游戏后再使用云端数据。": {
+          "msgid": "抱歉，您当前的游戏版本过旧\n请更新游戏后再使用云端数据。",
+          "comments": {
+            "reference": "plugins/entity/localstorage/runtime.js:2133\nplugins/entity/localstorage/runtime.js:2057\nsupport/dict/plugins/entity/localstorage/action.js:466"
+          },
+          "msgstr": [
+            "Sorry, your current game version is too old\nPlease update the game before using cloud data."
+          ]
+        },
+        "确认使用": {
+          "msgid": "确认使用",
+          "comments": {
+            "reference": "plugins/behavior/xftrade/runtime.js:229"
+          },
+          "msgstr": [
+            "Confirm use"
+          ]
+        },
+        "确认支付￥": {
+          "msgid": "确认支付￥",
+          "comments": {
+            "reference": "plugins/behavior/xftrade/runtime.js:224\nplugins/behavior/xftrade/runtime.js:234"
+          },
+          "msgstr": [
+            "Confirm payment$"
+          ]
+        },
+        "正在登录中～": {
+          "msgid": "正在登录中～",
+          "comments": {
+            "reference": "support/dict/model/login.js:857\nsupport/dict/model/login.js:837\nsupport/dict/model/login/index.js:89\nsupport/dict/model/login.js:839\nsupport/dict/model/login/index.js:91"
+          },
+          "msgstr": [
+            "Logging in~"
+          ]
+        },
+        "未能检测到网络连接\n\n请确认网络状态~": {
+          "msgid": "未能检测到网络连接\n\n请确认网络状态~",
+          "comments": {
+            "reference": "support/dict/model/login.js:849\nsupport/dict/model/login.js:829\nsupport/dict/model/login/index.js:81\nsupport/dict/model/login.js:831\nsupport/dict/model/login/index.js:83"
+          },
+          "msgstr": [
+            "Failed to detect network connection\n\nPlease confirm the network status~"
+          ]
+        },
+        "设置权限": {
+          "msgid": "设置权限",
+          "comments": {
+            "reference": "support/dict/model/login.js:581\nsupport/dict/model/login.js:569\nsupport/dict/model/login/permission.js:118"
+          },
+          "msgstr": [
+            "Setting permissions"
+          ]
+        },
+        "为了保证正常游戏体验，需获取设备信息和存储空间的权限。请授权后重试。": {
+          "msgid": "为了保证正常游戏体验，需获取设备信息和存储空间的权限。请授权后重试。",
+          "comments": {
+            "reference": "support/dict/model/login.js:575\nsupport/dict/model/login.js:563\nsupport/dict/model/login/permission.js:112"
+          },
+          "msgstr": [
+            "In order to offer a good game experience, we need to obtain device information and storage space permissions. Please authorize and try again."
+          ]
+        },
+        "SDK初始化失败": {
+          "msgid": "SDK初始化失败",
+          "comments": {
+            "reference": "support/dict/model/login.js:220\nsupport/dict/model/login.js:216\nsupport/dict/model/login/sdkInit.js:124"
+          },
+          "msgstr": [
+            "SDK initialization failed"
+          ]
+        },
+        "取消": {
+          "msgid": "取消",
+          "comments": {
+            "reference": "support/dict/components/namePicker/xfNamePicker.js:146\nsupport/dict/components/xfAlert.js:186\nsupport/dict/components/xfGoodsNumSelecter.js:118\nsupport/dict/components/xfLogin.js:285\nsupport/dict/components/xfLogin.js:67"
+          },
+          "msgstr": [
+            "cancel"
+          ]
+        },
+        "提示": {
+          "msgid": "提示",
+          "comments": {
+            "reference": "support/dict/components/xfLogin.js:113"
+          },
+          "msgstr": [
+            "prompt"
+          ]
+        },
+        "确认": {
+          "msgid": "确认",
+          "comments": {
+            "reference": "support/dict/components/namePicker/xfNamePicker.js:155\nsupport/dict/components/xfAlert.js:185\nsupport/dict/components/xfGoodsNumSelecter.js:101\nsupport/dict/components/xfLogin.js:286\nsupport/dict/components/xfLogin.js:41"
+          },
+          "msgstr": [
+            "confirm"
+          ]
+        },
+        "正在加载本地资源": {
+          "msgid": "正在加载本地资源",
+          "comments": {
+            "reference": "preview/drama/xfPlayer/preview.js:2251"
+          },
+          "msgstr": [
+            "Loading local resources"
+          ]
+        },
+        "正在打开": {
+          "msgid": "正在打开",
+          "comments": {
+            "reference": "preview/drama/xfPlayer/preview.js:2251"
+          },
+          "msgstr": [
+            "opening"
+          ]
+        }
+      }
+    }
+  }
+}
